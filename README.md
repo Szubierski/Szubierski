@@ -16,7 +16,9 @@ I have been learning to program for 6 years now. I started my adventure in middl
 ### libraries
 
 <p align="left">
-  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="react-router" /></a><a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="36" height="36" alt="Framer Motion" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="react-router" /></a>
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="36" height="36" alt="Framer Motion" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
 ### Tools
