@@ -1,9 +1,6 @@
 Hi 👋 My name is Nikodem
 ===================================
 
-Beginner Front-end Web Developer
---------------------------------
-
 I have been learning to program for 6 years now. I started my adventure in middle school writing my first console applications in C++. In high school I learned the basics of mySQL and how to work with the database for simple web application projects. I learned to program in languages such as Python, C#, php and JavaScript. I mainly focused on learning how to develop web applications, and I continue learning in this direction today, expanding my knowledge and skills with new technologies and experiences.
 
 ### Skills
