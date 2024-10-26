@@ -1,7 +1,7 @@
 Hi 👋 My name is Nikodem
 ===================================
 
-I have been learning to program for 6 years now. I started my adventure in middle school writing my first console applications in C++. In high school I learned the basics of mySQL and how to work with the database for simple web application projects. I learned to program in languages such as Python, C#, php and JavaScript. I mainly focused on learning how to develop web applications, and I continue learning in this direction today, expanding my knowledge and skills with new technologies and experiences.
+My name is Nikodem, and since 2018 I have been passionately expanding my programming skills. My adventure began with C++, and in the following years I explored Python, Java and C#. Eventually, I focused on JavaScript, which led me to learn frameworks such as React.js and backend with Node.js. I strive to continuously improve my competencies by getting involved in projects that allow me to create innovative solutions. I am open to new challenges and ready for further growth in a rapidly changing technology environment.
 
 ### Skills
 
