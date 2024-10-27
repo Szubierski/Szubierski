@@ -14,20 +14,15 @@ My name is Nikodem, and since 2018 I have been passionately expanding my program
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
-### libraries
-
-<p align="left">
-  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="react-router" /></a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="36" height="36" alt="Framer Motion" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-</p>
 
 ### Tools
 
 <p align="left">
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VSC" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="36" height="36" alt="VSC" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jim-nielsen.com/macos/512/figma-2021-05-05.png?rf=1024" width="36" height="36" alt="VSC" /></a>
   <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" width="36" height="36" alt="VSC" /></a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="36" height="36" alt="VSC" /></a>
 </p>
 
 
