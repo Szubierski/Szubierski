@@ -1,7 +1,7 @@
 Hi 👋 My name is Nikodem
 ===================================
 
-My name is Nikodem, and since 2018 I have been passionately expanding my programming skills. My adventure began with C++, and in the following years I explored Python, Java and C#. Eventually, I focused on JavaScript, which led me to learn frameworks such as React.js and backend with Node.js. I strive to continuously improve my competencies by getting involved in projects that allow me to create innovative solutions. I am open to new challenges and ready for further growth in a rapidly changing technology environment.
+My name is Nikodem and I have been passionate about programming since 2018. I started with C++ and then learned Python, Java and C#. Currently, I'm focusing on JavaScript, which has opened the door for me to technologies such as React.js and Node.js, allowing me to create dynamic applications. In addition to programming, I am interested in fishing, sports and mountain hiking, which allows me to relax and recover. I am also fascinated by news from the world of science, technology and astronomy. I am always looking for opportunities to learn and am open to new projects and challenges.
 
 ### Skills
 
