@@ -5,7 +5,7 @@ My name is Nikodem and I have been passionate about programming since 2018. I st
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,wordpress,nodejs,express,mysql,html,css,bootstrap,git)](https://skillicons.dev)
 
 ### Tools
 
